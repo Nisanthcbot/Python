@@ -1,0 +1,43 @@
+Day-1 Basic :
+ 
+   - Variable
+   - data Types
+   - input/output
+   - Looping Statement
+   - conditional Statement
+   - operation
+   - operator 
+
+
+Day-2 Game Creation :
+   
+   # Level 1
+   # Level 2
+   # Level 3 
+   # Level 4
+   # level 5
+   # level 6
+   # level 7
+
+
+Day-3,4,5 Data Structure :
+   
+   - List[]
+   - set {}
+   - Tuple ()
+   - Dictinory {"Name":"Nisanth"}
+
+Sunday test :
+   
+   2nd of Aguest Mock Interview with Ai Tools 
+
+Week-2 Python Libraries (pandas Deeep Drive)
+
+   - NumPy
+   - Pandas
+
+Week -2 Sunday
+   
+   Interview Question with Ai tools and AI Coach Joan
+
+
