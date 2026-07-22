@@ -1,13 +1,20 @@
 Day-1 Basic :
  
-   - Variable
-   - data Types
-   - input/output
-   - Looping Statement
-   - conditional Statement
-   - operation
-   - operator 
+   Basic :
+   - Syntax
+   - Variables
+   - Strings
+   - Input/Output
+   - Loops - fro , while , 
+   - Function
+   - Conditional statements - if else
 
+   Bonus :
+
+   - Predefined Function
+   - User Define Fumction
+   - Operators
+   - Exceptional Handling
 
 Day-2 Game Creation :
    
