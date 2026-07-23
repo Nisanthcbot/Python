@@ -1,0 +1,18 @@
+why use libraries ?
+
+    # saves time - no needs to write code for commmon task
+    # proven solutions - tested and optimized by experts
+    # easy to use - just improt and use the function 
+
+
+Types OF libraries 
+
+    # Pandas                    - data Analysis
+    # Numpy                     - Math/Science
+    # mathplotlib , seaborn     - Data Visualization
+    # Scikit-learn              - ML Algorithms
+    # Tensorflow, Keras, pytorch  - Deep Learning
+    # Flask , django            - web development
+
+
+# Pandas

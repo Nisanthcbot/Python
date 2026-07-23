@@ -1,0 +1,31 @@
+order_id,order_date,customer_name,age,customer_city,product_category,product_name,quantity,unit_price,discount_pct,payment_method
+1001,2024-01-05,Ravi Kumar,59,Chennai,Electronics,Wireless Mouse,2,499.00,5,Credit Card
+1002,2024-01-06,Ananya Sharma,26,Mumbai,Clothing,Cotton T-Shirt,3,299.00,0,UPI
+1003,2024-01-07,Vikram Singh,20,Delhi,Electronics,Bluetooth Speaker,1,1299.00,10,Debit Card
+1004,2024-01-08,Priya Nair,36,Kochi,Home & Kitchen,Non-stick Pan,1,899.00,0,Cash
+1005,2024-01-09,Arjun Reddy,34,Hyderabad,Electronics,USB-C Cable,4,199.00,0,UPI
+1006,2024-01-10,Sneha Iyer,33,Coimbatore,Clothing,Denim Jeans,2,1499.00,15,Credit Card
+1007,2024-01-12,Rahul Verma,27,Pune,Books,Fiction Novel,5,349.00,0,UPI
+1008,2024-01-13,Meera Joshi,25,Bangalore,Electronics,Laptop Stand,1,799.00,5,Debit Card
+1009,2024-01-14,Karan Malhotra,53,Delhi,Home & Kitchen,Blender,1,1999.00,10,Credit Card
+1010,2024-01-15,Divya Menon,24,Chennai,Clothing,Formal Shirt,3,899.00,0,Cash
+1011,2024-01-16,Amit Patel,56,Ahmedabad,Electronics,Power Bank,2,999.00,0,UPI
+1012,2024-01-17,Neha Gupta,46,Jaipur,Books,Self-help Book,2,299.00,5,Credit Card
+1013,2024-01-18,Rohan Desai,21,Mumbai,Electronics,Wireless Earbuds,1,2499.00,20,Debit Card
+1014,2024-01-19,Kavya Pillai,20,Kochi,Home & Kitchen,Cookware Set,1,3499.00,10,Credit Card
+1015,2024-01-20,Aditya Rao,24,Bangalore,Clothing,Sports Shoes,1,2199.00,0,UPI
+1016,2024-01-21,Isha Kapoor,32,Delhi,Books,Cookbook,3,449.00,0,Cash
+1017,2024-01-22,Manish Yadav,33,Lucknow,Electronics,Smartwatch,1,3999.00,15,Credit Card
+1018,2024-01-23,Pooja Bhatt,51,Pune,Home & Kitchen,Electric Kettle,2,699.00,0,UPI
+1019,2024-01-24,Sanjay Mehta,57,Surat,Clothing,Winter Jacket,1,2999.00,10,Debit Card
+1020,2024-01-25,Nisha Rani,20,Coimbatore,Electronics,Phone Case,5,149.00,0,Cash
+1021,2024-01-26,Vivek Chandran,54,Chennai,Books,Comic Book,4,199.00,0,UPI
+1022,2024-01-27,Tanvi Shah,31,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2499.00,5,Credit Card
+1023,2024-01-28,Farhan Ali,60,Hyderabad,Electronics,Gaming Mouse,1,1099.00,0,Debit Card
+1024,2024-01-29,Deepika Rani,53,Jaipur,Clothing,Kurta Set,2,1299.00,10,UPI
+1025,2024-01-30,,,Delhi,Electronics,HDMI Cable,3,249.00,0,Cash
+1026,2024-02-01,Suresh Kumar,45,Bangalore,Home & Kitchen,Rice Cooker,1,1599.00,,Credit Card
+1027,2024-02-02,Lakshmi Priya,33,Chennai,Books,Poetry Collection,2,299.00,0,UPI
+1028,2024-02-03,Harsh Vardhan,47,Pune,Electronics,Webcam,1,1799.00,5,Debit Card
+1029,2024-02-04,Aisha Khan,56,Mumbai,Clothing,Saree,1,4999.00,20,Credit Card
+1030,2024-02-05,Rajesh Nair,36,Kochi,,Table Lamp,2,599.00,0,Cash
