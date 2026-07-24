@@ -1,0 +1,9 @@
+in Build data Structure :
+
+  - list[]
+  - set{}
+  - Tuple()
+  - dictionary{}
+
+
+List
