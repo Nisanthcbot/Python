@@ -1,0 +1,71 @@
+pandas has 
+
+  - Series - Oru single column data (1D Array mathiri).
+  - DataFrame - Whole table with rows and columns (Excel sheet mathiri, 2D structure).
+
+how to Improt Pandas 
+
+import pandas as pd 
+ 
+
+
+3. Basic Operations & Quick Inspection
+   
+   * df.head() – First 5 rows-a show pannum.
+   * df.tail() – Last 5 rows-a show pannum.
+   * df.info() – Columns, null values, data types complete overview tharum.
+   * df.describe() – Count, mean, min, max mathiri summary statistics tharum only Int value Columns.
+   * df.shape – Table-la ethana rows & columns irukku-nu tuple-aa tharum (e.g., (4, 4))
+
+
+4. Reading & Writing Files
+   
+   # CSV file read panna
+   * df = pd.read_csv('students.csv')
+
+
+   # Process panna data-va pudhu file-aa save panna
+   *df.to_csv('cleaned_students.csv', index=False)
+
+
+5. Filtering & Selecting Data
+
+   
+   # Oru single column select panna
+   quantity = order_detail["quantity]
+
+
+   #Specific condition filter (quantity > 5 irukravanga mattum)
+   quantity = order_detail[order_detail["quantity"]>2]
+
+   Intha single line execution 3 steps-la nadakuthu:
+    Step 1: Inner Condition df['Marks'] > 80
+    Pandas first Marks column-la irukra ovvoru row-aiyum check pannum. Mark 80-ku mela iruntha True, illana False-nu oru Boolean Series create pannum.
+
+    Plaintext
+    Row 0 (Karthi):  85 > 80  -->  True
+    Row 1 (Priya):   92 > 80  -->  True
+    Row 2 (Suresh):  78 > 80  -->  False
+    Row 3 (Anitha):  88 > 80  -->  True
+    Step 2: Outer Filtering df[...]
+    Intha True/False list-a df[...] kulla pass pannum pothu, Pandas True irukra rows-a mattum retain pannitu, False irukra rows-a remove pannidum.
+
+    Step 3: Assignment toppers = ...
+    Filter aana andha rows mattum toppers ngra pudhu DataFrame variable-la save aagum
+
+
+    # Multiple conditions (Age > 21 AND City Chennai)
+    filtered = df[(df['Age'] > 21) & (df['City'] == 'Chennai')]
+
+
+
+6. Common Operations
+
+
+   # Add New Column	
+   df['Passed'] = df['Marks'] >= 80	
+
+   #Drop Column	
+   df.drop(columns=['City'], inplace=True)
+
+   #    
