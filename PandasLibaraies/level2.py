@@ -1,6 +1,6 @@
 import pandas as pd
 
-emp=pd.read_csv(filepath_or_buffer="employees.csv")
+emp=pd.read_csv("employees.csv")
 
 #Find out the Deparment in the company 
 emp.nunique()# it will find number of Unique 

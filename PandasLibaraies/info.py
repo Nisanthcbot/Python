@@ -1,6 +1,11 @@
 import pandas as pd
 
 
+emp1= pd.DataFrame({
+                  "Name":["Nisanth","Navaneethan","Naveen"],
+                  "Age":[23,21,31,] 
+                  })
+
 emp=pd.read_csv("employees.csv")
 
 print(emp.describe())# to find the  Median value for salary 61000
